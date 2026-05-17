@@ -1,4 +1,11 @@
-Hello, this is my first GitHub practice repository.
-I am learning Git and GitHub for GSSoC 2026.
-Today I learned my first Git commit.
-Hey there again I am making changes.
+
+DAY 1: CONCLUSION OF FIRST DAY LEARNING GITHUN AND GIT WORKFLOW:
+Through this practice, I learned the basic workflow of Git and GitHub.
+I understood how to create a repository on GitHub, 
+clone it into VS Code using Git commands, create and edit files
+locally, and then upload those changes back to GitHub using commands 
+like git add, git commit, and git push. I also learned that commits act
+like save points that track changes made in a project. 
+This practice helped me understand the foundation of open-source 
+contribution workflows, which will further help me in programs like
+ GirlScript Summer of Code 2026.
